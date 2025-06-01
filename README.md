@@ -1,6 +1,6 @@
-# Welcome to My GitHub Profile!
+# Anti-rejectionProposalPrank.github.io
+You can't say no to this proposal.                                                                                                                                       
 
-Check out my latest project: [my-website](https://github.com/nazrieva60/my-website).
-
-Feel free to explore and contribute!
-# my-website
+Visit link here: https://andrejarl.github.io/Anti-rejectionProposalPrank.github.io/proposal.html
+# Website Preview 
+![image](https://user-images.githubusercontent.com/104331025/233835094-89883a1e-d881-485f-933d-53adf6f938c4.png)
